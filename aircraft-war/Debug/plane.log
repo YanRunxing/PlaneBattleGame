@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\05.学习项目\C++\plane\main.cpp(41,22): warning C4018: “>”: 有符号/无符号不匹配
+  plane.vcxproj -> D:\05.学习项目\C++\plane\Debug\plane.exe
